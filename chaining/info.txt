@@ -1,0 +1,5 @@
+Types of chaining
+- exteneded and sequential chaining
+- parallel chaining
+- conditional chaining
+
